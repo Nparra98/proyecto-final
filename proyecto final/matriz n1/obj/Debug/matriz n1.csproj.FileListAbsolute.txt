@@ -1,0 +1,7 @@
+C:\Users\56981\Documents\GitHUb\proyecto final\matriz n1\bin\Debug\matriz n1.exe.config
+C:\Users\56981\Documents\GitHUb\proyecto final\matriz n1\bin\Debug\matriz n1.exe
+C:\Users\56981\Documents\GitHUb\proyecto final\matriz n1\bin\Debug\matriz n1.pdb
+C:\Users\56981\Documents\GitHUb\proyecto final\matriz n1\obj\Debug\matriz n1.csprojAssemblyReference.cache
+C:\Users\56981\Documents\GitHUb\proyecto final\matriz n1\obj\Debug\matriz n1.csproj.CoreCompileInputs.cache
+C:\Users\56981\Documents\GitHUb\proyecto final\matriz n1\obj\Debug\matriz n1.exe
+C:\Users\56981\Documents\GitHUb\proyecto final\matriz n1\obj\Debug\matriz n1.pdb
